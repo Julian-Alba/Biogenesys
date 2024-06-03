@@ -48,8 +48,20 @@ Pagina 2
 
 ## Tecnologias Utilizadas 💻
 <p align="center">
-<img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/69922e76-015b-4d0c-900d-afdebd3f4354" width="50" height="50" /> <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/c3d168ba-e4b0-442b-884e-c7bc4028a054" width="50" height="50" /><img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/1f9e5382-8e67-4679-b83c-a505dc6424a9" width="50" height="50" />            
-  <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/c8f2ff1d-e076-4497-a445-bc2a868d26e5" width="70" height="50" />
+</a>
+        <a href="https://powerbi.microsoft.com/es-es/desktop/" target="_blank">
+        <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/69922e76-015b-4d0c-900d-afdebd3f4354"             width="50" height="50" />
+    </a>
+        <a href="https://www.python.org/" target="_blank">
+        <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/c3d168ba-e4b0-442b-884e-c7bc4028a054"             width="50" height="50" />
+    </a>
+    </a>
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/1f9e5382-8e67-4679-b83c-a505dc6424a9" width="50" height="50" /> 
+    </a>
+        <a href="https://jupyter.org/"" target="_blank">
+         <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/c8f2ff1d-e076-4497-a445-bc2a868d26e5" width="70" height="50" />
+    </a>
 </p>
 
 ## Librerias utilizadas 📚
