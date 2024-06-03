@@ -65,21 +65,11 @@ Pagina 2
 </p>
 
 ## Librerias utilizadas 📚
-<p align="center">
-<img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/a91a306b-d5fb-4fb2-8c0e-596ff21481b7" width="100" height="50" /> 
-</p>
-  <p align="center">
-<img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/172d928f-8b5b-4754-9912-fe1c5c44a4fe" width="100" height="50" /> 
-    </p>
-    <p align="center">
-<img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/09c53ac7-9ace-4f02-b8ac-847c8d54fdbd" width="100" height="50" /> 
-</p>
-<p align="center">
-<img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/4918df46-f568-4b45-b244-cbf30fdbead4" width="100" height="50" />
-</p>
-<p align="center">
-<img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/bf7b08c0-480d-45d3-a474-b446d16a2092" width="100" height="50" /> 
-</p>
+### 🟠NumPy
+### 🟠Pandas
+### 🟠Seaborn
+### 🟠Matplotlib
+### 🟠GeoPandas
 
 
 ## Requisitos para ejecutarlo localmente ⚙️
